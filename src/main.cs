@@ -23,3 +23,4 @@ VectorRAG.Net is a .NET-native high-performance vector database library for sema
 // avoid re-reading the config on every call
 // guard against empty input
 // drop an unused branch
+// drop an unused branch
